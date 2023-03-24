@@ -1,0 +1,30 @@
+@media only screen and (max-width: 767px) {
+  .deg {
+    font-size: 2rem !important;
+  }
+  .loc {
+    font-size: 2rem !important;
+  }
+  .icon {
+    font-size: 40px !important;
+    margin-bottom: -10px !important;
+  }
+  .conta {
+    margin-left: 0 !important;
+  }
+}
+@media only screen and (min-width: 700px) {
+  .deg {
+    font-size: 6rem !important;
+  }
+  .loc {
+    font-size: 3.75rem !important;
+  }
+  .icon {
+    font-size: 60px !important;
+    margin-bottom: 0px !important;
+  }
+  .conta {
+    margin-left: 80px !important;
+  }
+}
